@@ -1,2 +1,6 @@
 file5
+<<<<<<< HEAD
 line2 file 5
+=======
+line1 file5
+>>>>>>> b5
