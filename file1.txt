@@ -1,3 +1,4 @@
 this is file 1
 first line in file1
 second line in file1
+thire line in file1
